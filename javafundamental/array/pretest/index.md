@@ -10,7 +10,7 @@
 <br>
 2. Jelaskan Apa itu ```For-Each```, dan tuliskan contoh program untuk mengakses elemen array 2 dimensi menggunakan ```For-Each```!  
 
-3. Tuliskan Contoh Program, dimana didalamnya terdapat array String yang menampung nim, nama asisten, dan nama-nama teman satu asistensi anda dengan ketentuan  :  
+3. Tuliskan Contoh Program, dimana didalamnya terdapat array String yang menampung NIM, nama asisten, dan nama-nama teman satu asistensi anda dengan ketentuan  :  
     - NIM dan Nama asisten anda berada pada indeks ke-0
 	- Indeks selanjutnya berisi NIM dan Nama teman anda
 	- Tampilkan isi Array anda sebagai berikut :  
