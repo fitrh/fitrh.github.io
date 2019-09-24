@@ -9,7 +9,7 @@
     - Tanpa Menggunakan Ketiga Konsep Sebelumnya  
 
 2. Jelaskan Apa itu ```For-Each```, dan tuliskan contoh program untuk mengakses elemen array 2 dimensi menggunakan ```For-Each``` !  
-<br>
+
 3. Tuliskan Contoh Program, dimana didalamnya terdapat array String yang menampung nim, nama asisten, dan nama-nama teman satu asistensi anda dengan ketentuan  :  
     - NIM dan Nama asisten anda berada pada indeks ke-0
 	- Indeks selanjutnya berisi NIM dan Nama teman anda
@@ -26,10 +26,10 @@
 
 		![alt text][04_list]  
 
-[01_list]: assets/img/01_list.png "Tampilan List"
-[02_list]: assets/img/02_view.png "Tampilan Jika Inputan adalah Nomor urut Asisten"
-[03_list]: assets/img/03_view.png "Tampilan Jika Inputan adalah nomor urut teman"
-[04_list]: assets/img/04_exit.png "Tampilan Ketika ArrayIndexOutOfBoundsException"
+		[01_list]: assets/img/01_list.png "Tampilan List"
+		[02_list]: assets/img/02_view.png "Tampilan Jika Inputan adalah Nomor urut Asisten"
+		[03_list]: assets/img/03_view.png "Tampilan Jika Inputan adalah nomor urut teman"
+		[04_list]: assets/img/04_exit.png "Tampilan Ketika ArrayIndexOutOfBoundsException"
 
 4. Diberikan sebuah array integer sebagai berikut :
 	```java
@@ -46,5 +46,5 @@
 	```
 
 	![alt text](assets/img/05_shift_char.png "Dekripsi Array")  
-	```ICOS``` dihasilkan dengan mengubah setiap elemen array ```haloCipher``` menjadi karakter *ASCII*[^1], sedangkan ```HALO``` merupakan hasil dekripsi ```ICOS``` berdasarkan ketentuan enkripsi sebelumnya.  
-	[^1]: Gunakan tabel ASCII sebagai referensi.
+	```ICOS``` dihasilkan dengan mengubah setiap elemen array ```haloCipher``` menjadi karakter *ASCII*, sedangkan ```HALO``` merupakan hasil dekripsi ```ICOS``` berdasarkan ketentuan enkripsi sebelumnya.  
+	>  Gunakan tabel ASCII sebagai referensi.
