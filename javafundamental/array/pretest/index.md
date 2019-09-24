@@ -18,7 +18,7 @@
 		![alt text][01_list]
 	- Menu *view* menerima inputan ```int n``` dimana ```n``` adalah nomor urut sesuai *list*, jika ```n``` tidak menghasilakn ```ArrayIndexOutOfBoundsException```, maka cetak NIM, Nama, dan Status dengan format berikut :  
 		
-		![alt text][02_list]
+		![alt text][02_list]  
 	Jika ```n``` adalah nomor urut asisten anda, maka pada Status cetak **Asisten**, selain itu, cetak **Praktikan**.
 	- Program akan berhenti jika ```n``` menghasilkan ```ArrayIndexOutOfBoundsException``` dan akan mencetak **Exit . . .** .  
 
