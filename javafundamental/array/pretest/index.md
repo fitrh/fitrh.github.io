@@ -31,7 +31,8 @@
 		[03_list]: assets/img/03_view.png "Tampilan Jika Inputan adalah nomor urut teman"
 		[04_list]: assets/img/04_exit.png "Tampilan Ketika ArrayIndexOutOfBoundsException"
 
-4. Diberikan sebuah array integer sebagai berikut :
+4. Diberikan sebuah array integer sebagai berikut :  
+   
 	```java
 	int[] cipher = { 100, 107, 104, 50, 51, 52, 39, 82, 106, 113, 114, 123, 123, 135, 112 };
 	```
