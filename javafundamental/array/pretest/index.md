@@ -8,7 +8,7 @@
     - Menggunakan Perulangan
     - Tanpa Menggunakan Ketiga Konsep Sebelumnya  
 
-2. Jelaskan Apa itu ```For-Each```, dan tuliskan contoh program untuk mengakses elemen array 2 dimensi menggunakan ```For-Each``` !  
+2. Jelaskan Apa itu ```For-Each```, dan tuliskan contoh program untuk mengakses elemen array 2 dimensi menggunakan ```For-Each```\!  
 
 3. Tuliskan Contoh Program, dimana didalamnya terdapat array String yang menampung nim, nama asisten, dan nama-nama teman satu asistensi anda dengan ketentuan  :  
     - NIM dan Nama asisten anda berada pada indeks ke-0
