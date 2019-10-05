@@ -4,9 +4,9 @@
 	1. ```table_mahasiswa``` memiliki *field* awal sebagai berikut :   
 		| table_mahasiswa |     | table_matakuliah |
 		| --------------- | --- | ---------------- |
-		| ```id_mhs```    |     | `id_mk`             |
-		| ```nim_mhs```   |     |                  |
-		| ```nama_mhs```  |     |                  |
+		| id_mhs          |     | id_mk            |
+		| nim_mhs         |     |                  |
+		| nama_mhs        |     |                  |
 
 	2. Setiap `table`, Salah satu dari *field*nya harus ada yang menjadi `PRIMARY KEY`.
 	3. *Field* `nim` memiliki panjang maksimal 10 dan harus bersifat `UNIQUE`.
