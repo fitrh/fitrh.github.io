@@ -5,10 +5,9 @@
 		
 		| table_mahasiswa |     | table_matakuliah |
 		| --------------- | --- | ---------------- |
-		| id_mhs          |     | id_mku           |
-		| nim_mhs         |     |                  |
-		| nama_mhs        |     |                  |
-
+		| `id_mhs`          |     | `id_mk`            |
+		| `nim_mhs`         |     |                  |
+		| `nama_mhs`        |     |                  |   
 	2. Setiap `table`, Salah satu dari *field*nya harus ada yang menjadi `PRIMARY KEY`.
 	3. *Field* `nim` memiliki panjang maksimal 10 dan harus bersifat `UNIQUE`.
 	4. Tambahkan *field* baru pada `table_mahasisw` dengan nama ```status_mhs``` yang hanya boleh menampung nilai ```Aktif``` dan ```Lulus```.
