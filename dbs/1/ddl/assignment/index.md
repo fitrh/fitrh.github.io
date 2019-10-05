@@ -2,9 +2,10 @@
 
 1. Buatlah 2 Buah Table dengan nama ```table_mahasiswa``` dan ```table_matakuliah``` dengan ketentuan berikut :   
 	1. ```table_mahasiswa``` memiliki *field* awal sebagai berikut :   
+		
 		| table_mahasiswa |     | table_matakuliah |
 		| --------------- | --- | ---------------- |
-		| id_mhs          |     | id_mk            |
+		| id_mhs          |     | id_mku           |
 		| nim_mhs         |     |                  |
 		| nama_mhs        |     |                  |
 
