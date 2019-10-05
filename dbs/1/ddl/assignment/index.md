@@ -1,6 +1,6 @@
 # Tugas Praktikum : Data Definition Language
 
-1. Buatlah 2 Buah Table dengan nama ```table_mahasiswa``` dan ```table_matakuliah``` dengan ketentuan berikut :   
+1. Buatlah 2 buah `table` dengan nama ```table_mahasiswa``` dan ```table_matakuliah``` dengan ketentuan berikut :   
 	1. ```table_mahasiswa``` memiliki *field* awal sebagai berikut :   
 		
 		| table_mahasiswa |     | table_matakuliah |
@@ -22,3 +22,4 @@
 
 2. Buatlah Sebuah `database` dengan struktur `table` berikut : [ddl_assignment](assets/ddl_assignment.pdf).
    
+> Tempat dan aturan pengumpulan tugas dapat anda dilihat melalui repositori berikut : [Repository Tugas Simbad I](https://github.com/fitrh/tugas-praktikum-simbad-2019).
