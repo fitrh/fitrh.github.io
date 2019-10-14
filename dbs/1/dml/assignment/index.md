@@ -11,7 +11,7 @@ Dengan menggunakan table ```table_list_country```
 	3. Populasi Terbanyak
 	4. Kepadatan Penduduk (```pop_density```) terkecil
    
-
+   
 3. Tampilkan nama, ibu kota, kode iso, benua, dan wilayah dari negara yang namanya mengandung semua huruf vokal (a, i, u, e, o) !
    
 4. Tampilkan nama, area, dan populasi dari negara yang dikategorikan sebagai negara **besar**, yaitu memiliki area lebih dari 3 juta atau populasi yang lebih dari 250 juta !
