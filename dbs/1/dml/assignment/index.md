@@ -1,6 +1,7 @@
 # Tugas Praktikum : Data Manipulation Language
 
 > Amati dan Pelajari struktur table dari database berikut : [**world.sql**](assets/world.sql)   
+> Bagi yang *record*nya kosong, silahkan ```INSERT``` menggunakan data berikut : [**data.txt**](assets/data.txt)
 
 Dengan menggunakan table ```table_list_country```   
 1. Tampilkan semua data secara ```ASC``` berdasarkan field ```iso_code``` !
