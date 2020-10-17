@@ -15,7 +15,7 @@ class Role {
       System.out.println("For example, try 'Admin'.");
     } else if (args.length == 1) {
       // Your magic is here
-      if (...) {
+      if (/* Magic ??? */) {
         // Another magic
       } else {
         System.out.println("Invalid Role");
