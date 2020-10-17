@@ -28,7 +28,7 @@ class Role {
 }
 ```
 
-Sehingga menghasilkan output berikut
+Sehingga menghasilkan output berikut (Klik untuk play)
 
 [![asciicast](https://asciinema.org/a/365892.svg)](https://asciinema.org/a/365892)
 
