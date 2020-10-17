@@ -15,11 +15,12 @@ class Role {
       System.out.println("For example, try 'Admin'.");
     } else if (args.length == 1) {
       // Your magic is here
-    } else {
+      if (...) {
+        // Another magic
+      } else {
         System.out.println("Invalid Role");
         System.out.println("Valid Role : Super Admin, Admin, User");
       }
-
     } else {
       System.out.println("Too many argument");
     }
