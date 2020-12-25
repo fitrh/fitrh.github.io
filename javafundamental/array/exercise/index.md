@@ -1,4 +1,4 @@
-# Latohan : _Array_
+# Latihan : _Array_
 
 1. Buatlah Sebuah Program untuk mencetak elemen array char dalam bentuk kode desimal sesuai pada tabel ASCII !
 	Contoh
