@@ -1,4 +1,4 @@
 # Java Fundamentals
 
-[Conditional](conditional)
-[Array](array)
+- [Conditional](conditional)
+- [Array](array)
